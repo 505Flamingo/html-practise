@@ -1,0 +1,46 @@
+body{
+  background-image: url(images/fonmain.jpg);
+  background-size: 100%;
+  margin: 0;
+  padding: 0;
+  margin-left: 50px;
+  margin-top: 20px;
+}
+
+.maintitle {
+  background-image: url(images/texture.jpg);
+  color: white;
+  margin-left: 40%;
+  margin-top: 40px;
+  width: 220px;  
+  height: 50px;
+  border-radius: 10px;
+  padding: 5px;
+}
+
+p { 
+  font-family: Geneva, Arial, Helvetica, sans-serif;
+  text-transform: uppercase;
+}
+
+.links{
+  margin: 20px 460px;
+  width: 350px;
+  padding: 10px;
+  background-image: url(images/knopka.jpg);
+}
+
+.links a {
+  font-family: Geneva, Arial, Helvetica, sans-serif;
+  color: #FFF56E;
+  text-decoration: none;
+}
+
+
+a {
+  color: #FFF56E;
+  text-decoration: none;
+}
+
+
+
